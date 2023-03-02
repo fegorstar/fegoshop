@@ -2,8 +2,7 @@
 # About The Project
 So my cousin just open a wears company where she sells all kinds of wears for adults and children, so I thought it would be good place to develop an E-commerce application for her to manage her company. This is a Robust E-commerce application that you can use as a prototype for your E-commerce applications.  
 
-<img src="https://github.com/fegorstar/mobhil-web/blob/master/mobhil/static/img/homepage.PNG">
-
+<img src="https://github.com/fegorstar/fegoshop/blob/master/fegoshop/static/images/homepage.PNG"
 
 ## App Features
 - Store: Which consists of the lists of products
